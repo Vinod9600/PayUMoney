@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayUKickStarter</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_project_detail_screen">ProjectDetailScreen</string>
+</resources>
